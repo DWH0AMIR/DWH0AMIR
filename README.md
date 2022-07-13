@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Dima 👋
+
+<img src="https://github-readme-stats-plum-eta.vercel.app/api?username=DWH0AMIR&show_icons=true&theme=tokyonight" width="53.4%">
 
 <!--
 **DWH0AMIR/DWH0AMIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
